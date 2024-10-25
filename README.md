@@ -1,2 +1,5 @@
 # Keishon
-[DA FARE]
+The Daedalus Rocketry Group was founded by a handful of bachelor students within the Aerospace Engineering program at the Polytechnical University of Milan. Seeking a project that conjugated our diverse skills and interests, we chose to build a model rocket from scratch.
+This project allowed us not only to apply the knowledge gained in our coursework but also to go beyond it, pushing us to research and solve new challenges as they arose. Wanting to create a resource for aspiring rocketeers, we embraced a step-by-step learning approach, tackling small challenges one at a time and documenting our progress along the way.
+In line with these principles, we designed the rocket with a complementary purpose: creating a structured course. This program guides young students from an introduction to key engineering principles to increasingly complex systems. It offers participants a comprehensive overview of different development areas, allowing them to specialize in areas of interest. Through hands-on problem-solving, students gain the experience needed to make informed decisions about their future focus.
+
